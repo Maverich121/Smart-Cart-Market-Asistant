@@ -1,12 +1,14 @@
-# flutter_module_1
+Smart Cart is a mobile application that enhances traditional grocery shopping by integrating image processing and natural language processing technologies. It provides users with detailed product information, such as ingredients, nutritional values, and health warnings, enabling informed and healthy purchasing decisions.
 
-A new Flutter module project.
+Key Features:
+- Product scanning via camera to quickly retrieve detailed info
+- Personalized recommendations based on user allergies and health conditions
+- Recipe generation using natural language processing from user-input ingredients
+- Interactive and user-friendly mobile interface supporting healthy lifestyle choices
 
-## Getting Started
-
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
-"# smart_market" 
+Technologies Used:
+- Flutter
+- Firebase
+- Android Studio
+- Image Processing (Roboflow, Ngrok, Flask)
+- Natural Language Processing (NLP)
