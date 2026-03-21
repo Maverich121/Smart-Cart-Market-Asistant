@@ -23,7 +23,7 @@ Smart Cart is a graduation project developed at **Başkent University, Faculty o
 
 The application aims to enrich the grocery shopping experience by enabling users to scan products with their phone camera, receive detailed nutritional and ingredient information, get allergy warnings, calculate daily calorie needs, and generate personalized recipes — all from a single mobile interface.
 
-![Mobile Application1](assests/images/ekran.png)
+![Mobile Application1](assets/images/ekran.png)
 ---
 
 ## Key Features
