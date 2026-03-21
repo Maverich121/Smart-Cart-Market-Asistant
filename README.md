@@ -22,10 +22,6 @@
 Smart Cart is a graduation project developed at **Başkent University, Faculty of Engineering** (Computer Engineering Department) during the 2023–2024 academic year under the supervision of **Assoc. Prof. Dr. Emre Sümer**.
 
 The application aims to enrich the grocery shopping experience by enabling users to scan products with their phone camera, receive detailed nutritional and ingredient information, get allergy warnings, calculate daily calorie needs, and generate personalized recipes — all from a single mobile interface.
-
-<p align="center">
-  <img src="assets/images/ekran.png" width="500"/>
-</p>
 ---
 
 ## Key Features
