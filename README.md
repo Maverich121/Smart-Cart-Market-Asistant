@@ -15,15 +15,6 @@
   - [Flask Server & API](#flask-server--api)
   - [Mobile Application (Flutter)](#mobile-application-flutter)
   - [Natural Language Processing (GPT-2)](#natural-language-processing-gpt-2)
-- [App Screens](#app-screens)
-- [Requirements](#requirements)
-- [Functional Requirements](#functional-requirements)
-- [Non-Functional Requirements](#non-functional-requirements)
-- [Project Constraints](#project-constraints)
-- [Known Limitations](#known-limitations)
-- [Team](#team)
-- [References](#references)
-
 ---
 
 ## Overview
