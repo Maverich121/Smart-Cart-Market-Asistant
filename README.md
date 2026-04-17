@@ -1,7 +1,8 @@
 # 🛒 Smart Cart — Smart Market Assistant
 
 > A mobile application that transforms traditional grocery shopping by combining **image processing** and **natural language processing** technologies to help users make informed, healthy purchasing decisions.
-
+📄 **[Read the full thesis (PDF)](https://github.com/Maverich121/Smart-Cart-Market-Asistant/blob/main/Bachelor_Thesis.pdf)**
+> 
 ---
 
 ## 📖 Table of Contents
